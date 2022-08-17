@@ -1,4 +1,4 @@
-### Olá! Eu sou o Viniccius Neves
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Viniccius+Neves+!;Tenho+22+anos;Atualmente+estudo+Back+End;+:%29)](https://git.io/typing-svg)
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Python e SQL
@@ -18,6 +18,13 @@
   <img align="center" alt="Neves-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Neves-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
+##
+
+### Estudando:
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ##
   
