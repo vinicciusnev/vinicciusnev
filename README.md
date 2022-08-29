@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Viniccius+Neves+!;Tenho+22+anos;Atualmente+estudo+Back+End;+:%29)](https://git.io/typing-svg)
 
 - 🔭 Foco no back-end
-- 🌱 Aprimorando conhecimento em Python e SQL
+- 🌱 Aprimorando conhecimento em Python, JAVA e SQL
 - 💬 Contate-me no email: xxnashflows@hotmail.com
 
 
