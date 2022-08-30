@@ -7,10 +7,9 @@
 
 
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicciusnev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicciusnev&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center"> 
+  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=vinicciusnev&show_icons=true&count_private=true&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9&bg_color=141321" alt="Viniccius Neves github stats" /> 
+  <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicciusnev&layout=compact&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=141321" />
 </div>
 </div>
 <div style="display: inline_block"><br>
