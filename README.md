@@ -2,7 +2,7 @@
 
 - 🔭 Foco no back-end
 - 🌱 Aprimorando conhecimento em Python, JAVA e SQL
-- 💬 Contate-me no email: xxnashflows@hotmail.com
+- 💬 Contate-me no email: vinicciusneves23@hotmail.com
 
 
 
