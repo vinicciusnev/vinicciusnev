@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Viniccius+Neves+!;Tenho+22+anos;Atualmente+estudo+Back+End;+:%29)](https://git.io/typing-svg)
 
 - 🔭 Foco no back-end
-- 🌱 Aprimorando conhecimento em JAVA e MySQL
+- 🌱 Aprimorando conhecimento em JAVA, MySQL e PostgreSQL
 - 💬 Contate-me no email: vinicciusneves23@hotmail.com
 
 
@@ -24,7 +24,7 @@
 
 ### Estudando:
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgresql-14354C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
