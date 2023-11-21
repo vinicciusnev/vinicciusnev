@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Viniccius+Neves+!;Tenho+22+anos;Atualmente+estudo+Back+End;+:%29)](https://git.io/typing-svg)
 
 - 🔭 Foco no back-end
-- 🌱 Aprimorando conhecimento em JAVA, MySQL e PostgreSQL
+- 🌱 Aprimorando conhecimento em Design Patterns, SQL e Spring
 - 💬 Contate-me no email: vinicciusneves23@hotmail.com
 
 
@@ -12,21 +12,12 @@
   <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicciusnev&layout=compact&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=141321" />
 </div>
 </div>
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="Neves-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Neves-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Neves-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
-</div>
 
 ##
 
-### Estudando:
+### Skills:
 
-![PostgreSQL](https://img.shields.io/badge/Postgresql-14354C?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,python,aws,mysql,postgresql,nodejs,docker)](https://skillicons.dev)
 
 ##
   
